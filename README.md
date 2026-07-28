@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -52,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Hash Table
+|  |
+| ------- |
+| [0041-first-missing-positive](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0041-first-missing-positive) |
 <!---LeetCode Topics End-->
