@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0125-valid-palindrome) |
 | [0520-detect-capital](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0520-detect-capital) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Stack
@@ -77,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0232-implement-queue-using-stacks) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
