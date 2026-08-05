@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0169-majority-element](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -64,11 +66,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0041-first-missing-positive) |
+| [0169-majority-element](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0169-majority-element) |
 | [1512-number-of-good-pairs](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/1512-number-of-good-pairs) |
 | [3731-find-missing-elements](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0169-majority-element) |
 | [1512-number-of-good-pairs](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/1512-number-of-good-pairs) |
 ## Design
 |  |
@@ -82,4 +86,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0125-valid-palindrome) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
