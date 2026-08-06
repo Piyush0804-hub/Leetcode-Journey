@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0125-valid-palindrome) |
+| [0387-first-unique-character-in-a-string](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0387-first-unique-character-in-a-string) |
 | [0520-detect-capital](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0520-detect-capital) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Stack
@@ -68,12 +69,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/1512-number-of-good-pairs) |
 | [3731-find-missing-elements](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/1512-number-of-good-pairs) |
 ## Design
 |  |
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0387-first-unique-character-in-a-string) |
 ## Two Pointers
 |  |
 | ------- |
