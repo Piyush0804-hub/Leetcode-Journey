@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0414-third-maximum-number) |
+| [0485-max-consecutive-ones](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/1512-number-of-good-pairs) |
