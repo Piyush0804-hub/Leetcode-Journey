@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/1512-number-of-good-pairs) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0232-implement-queue-using-stacks](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0232-implement-queue-using-stacks) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/1441-build-an-array-with-stack-operations) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -118,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Simulation
+|  |
+| ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/1441-build-an-array-with-stack-operations) |
 <!---LeetCode Topics End-->
