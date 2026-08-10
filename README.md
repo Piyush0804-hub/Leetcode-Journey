@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0014-longest-common-prefix) |
 | [0041-first-missing-positive](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0136-single-number) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0387-first-unique-character-in-a-string) |
@@ -124,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1441-build-an-array-with-stack-operations](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/1441-build-an-array-with-stack-operations) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
