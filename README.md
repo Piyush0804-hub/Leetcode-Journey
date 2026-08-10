@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0645-set-mismatch) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0387-first-unique-character-in-a-string) |
 | [0520-detect-capital](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0520-detect-capital) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0645-set-mismatch) |
