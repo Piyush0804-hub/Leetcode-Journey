@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0645-set-mismatch) |
 ## Sorting
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0231-power-of-two](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0628-maximum-product-of-three-numbers) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
