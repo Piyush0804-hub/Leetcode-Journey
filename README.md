@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0125-valid-palindrome](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0125-valid-palindrome) |
 ## Divide and Conquer
 |  |
@@ -199,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/3904-smallest-stable-index-ii) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
