@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0414-third-maximum-number) |
@@ -171,11 +172,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0268-missing-number) |
 ## Monotonic Stack
 |  |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [3903-smallest-stable-index-i](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/3904-smallest-stable-index-ii) |
 ## Linked List
