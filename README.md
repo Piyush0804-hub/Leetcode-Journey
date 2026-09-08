@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/1512-number-of-good-pairs) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/3536-maximum-product-of-two-digits) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3870-count-commas-in-range](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/3875-construct-uniform-parity-array-i) |
@@ -211,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
