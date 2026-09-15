@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0520-detect-capital) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3174-clear-digits](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/3174-clear-digits) |
 ## Stack
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0496-next-greater-element-i) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/1441-build-an-array-with-stack-operations) |
+| [3174-clear-digits](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/3174-clear-digits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1441-build-an-array-with-stack-operations](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/1441-build-an-array-with-stack-operations) |
+| [3174-clear-digits](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/3174-clear-digits) |
 ## Trie
 |  |
 | ------- |
