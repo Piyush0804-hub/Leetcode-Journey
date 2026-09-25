@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0645-set-mismatch) |
+| [0713-subarray-product-less-than-k](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0713-subarray-product-less-than-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0209-minimum-size-subarray-sum) |
+| [0713-subarray-product-less-than-k](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0713-subarray-product-less-than-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Binary Search
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0268-missing-number) |
+| [0713-subarray-product-less-than-k](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0713-subarray-product-less-than-k) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0209-minimum-size-subarray-sum) |
+| [0713-subarray-product-less-than-k](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0713-subarray-product-less-than-k) |
 | [3903-smallest-stable-index-i](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/3904-smallest-stable-index-ii) |
 ## Linked List
