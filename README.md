@@ -246,4 +246,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0142-linked-list-cycle-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Piyush0804-hub/Leetcode-Journey/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
